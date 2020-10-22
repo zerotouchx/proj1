@@ -2,4 +2,5 @@
 
 ##1. Sample README.md file##
 
-Jenkins pipeline test script...
+* Jenkins pipeline test script...
+* To build some pipeline
